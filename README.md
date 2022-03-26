@@ -31,7 +31,7 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 ### Frontend: <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-### Frameworks: <img src="https://img.shields.io/badge/bootstrap%20-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+### Frameworks: <img src="https://img.shields.io/badge/bootstrap%20-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/W3C%20-005A9C.svg?&style=for-the-badge&logo=W3C&logoColor=white"/>
 
 ### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
  
