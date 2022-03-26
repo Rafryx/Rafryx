@@ -37,7 +37,8 @@ I Love code and create new stuff, i like too much to discover new technologies a
  
 ## What I don't know, give me a few days 😁
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=Rafryx&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/Rafryx) [![Top Langs]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Rafryx&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Rafryx)
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=Rafryx&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/Rafryx) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafryx&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Rafryx)
 
 
