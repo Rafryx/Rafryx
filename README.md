@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Rafael S. de Lima!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/peguimasid)](https://github.com/peguimasid)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafryx)](https://github.com/Rafryx)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/rafael-soares-de-lima-0626291b0/)](https://www.linkedin.com/in/rafael-soares-de-lima-0626291b0/)
 ## About me:
 
