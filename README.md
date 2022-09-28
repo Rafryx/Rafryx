@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafryx)](https://github.com/Rafryx)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/rafael-soares-de-lima-0626291b0/)](https://www.linkedin.com/in/rafael-soares-de-lima-0626291b0/)
-<a href="mailto:rsoaresdelima10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a height="30" width="40" href="mailto:rsoaresdelima10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ## About me:
 
 I'm a Front-end :smile:
@@ -36,7 +36,7 @@ I Love code and create new stuff, i like too much to discover new technologies a
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Mauricio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 <!--   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div><br>
@@ -53,7 +53,4 @@ I Love code and create new stuff, i like too much to discover new technologies a
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-</div>
 
