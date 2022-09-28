@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafryx)](https://github.com/Rafryx)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/rafael-soares-de-lima-0626291b0/)](https://www.linkedin.com/in/rafael-soares-de-lima-0626291b0/)
+<a href="mailto:rsoaresdelima10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ## About me:
 
 I'm a Front-end :smile:
@@ -26,8 +27,6 @@ I'm a Front-end :smile:
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
 ## My specialties:
-
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg
  
 ## What I don't know, give me a few days 😁
 
@@ -56,8 +55,8 @@ https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootst
 
 <div align="center">
  
-  <a href="https://www.linkedin.com/in/mauricio-costa-216bb1235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:eduardo.mc611641@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  
 </div>
 
 <div align="center">
