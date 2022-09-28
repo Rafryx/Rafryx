@@ -55,8 +55,7 @@ https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootst
 </div><br>
 
 <div align="center">
-
-  <a href="https://free.facebook.com/menezes.costa.754?ref_component=mfreebasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+ 
   <a href="https://www.linkedin.com/in/mauricio-costa-216bb1235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:eduardo.mc611641@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
