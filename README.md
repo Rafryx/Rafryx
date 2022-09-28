@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/rafael-soares-de-lima-0626291b0/)](https://www.linkedin.com/in/rafael-soares-de-lima-0626291b0/)
 <a href="rsoaresdelima10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
+<a href="mailto:eduardo.mc611641@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ## About me:
 
 I'm a Front-end :smile:
